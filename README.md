@@ -2,4 +2,4 @@
 
 CSS position:sticky test
 
-![screenshot](Screentshot.png "stormtrooper")
+![Screenshot](Screenshot.png?raw=true "stormtrooper")
